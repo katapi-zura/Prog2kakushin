@@ -3,4 +3,3 @@
 - https://github.com/katapi-zura/Prog2kakushin/blob/main/work1.ipynb
 - https://github.com/katapi-zura/Prog2kakushin/blob/main/work2.ipynb
 - https://github.com/katapi-zura/Prog2kakushin/blob/main/work3.ipynb
-- https://github.com/katapi-zura/Prog2kakushin/blob/main/work4.ipynb
